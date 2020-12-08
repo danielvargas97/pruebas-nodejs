@@ -1,0 +1,16 @@
+{
+  "name": "node_pruebas",
+  "version": "1.0.0",
+  "description": "Es un paquete de pruebas",
+  "main": "index.html",
+  "scripts": {
+    "start" : "npm run lite",
+    "lite" : "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Vargas",
+  "license": "ISC",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
